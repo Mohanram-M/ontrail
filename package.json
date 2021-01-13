@@ -1,0 +1,10 @@
+{
+    "name": "ontrail",
+    "description": "on trail project",
+    "authors": "0mohan0ram@gmail.com",
+    "version": "1.0.0",
+    "dependencies": {},
+    "scripts": {
+        "start":"node index.js"
+    }
+}
